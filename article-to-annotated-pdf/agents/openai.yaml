@@ -1,0 +1,4 @@
+interface:
+  display_name: "Article to Annotated PDF"
+  short_description: "Create annotated academic PDFs from text"
+  default_prompt: "Use $article-to-annotated-pdf to turn this source into a dual-column LaTeX PDF with annotations."
