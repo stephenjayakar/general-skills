@@ -1,0 +1,4 @@
+interface:
+  display_name: "OMP Delegate"
+  short_description: "Delegate bounded work through OMP"
+  default_prompt: "Use $omp-delegate to split this task into focused OMP subagent assignments."
