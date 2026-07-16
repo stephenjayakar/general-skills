@@ -1,0 +1,4 @@
+interface:
+  display_name: "Delegate"
+  short_description: "Launch Luna subagents through OMP"
+  default_prompt: "Use $delegate to split this task into focused Luna subagent assignments."
