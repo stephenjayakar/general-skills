@@ -11,7 +11,7 @@ Invoke OMP directly from the current shell:
 
 ```text
 omp -p \
-  --model openrouter/openai/gpt-5.6-luna \
+  --model openai-codex/gpt-5.6-luna \
   --thinking medium \
   --approval-mode yolo \
   --auto-approve \
